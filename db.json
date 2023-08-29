@@ -15,7 +15,7 @@
         {
           "cid": "6ae8e5a0-9254-49c1-a7ce-921d2a656b8c",
           "username": "ethanoutangoun",
-          "text": "So cooll",
+          "text": "So cool",
           "date": "2023-08-25T22:42:37.425Z",
           "likes": 0,
           "edited": true
@@ -36,74 +36,6 @@
       "author": "not ethan",
       "comments": [],
       "id": 11
-    },
-    {
-      "title": "Lorem Ipsum Sample",
-      "body": "Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. Where can I get some? There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-      "author": ">:)",
-      "comments": [],
-      "id": 12
-    },
-    {
-      "title": "Brenton O",
-      "body": "Once, there was a boy named Brenton better known as Baby Brenton.  He was not handsome by any mean.  Some would say he was downright ugly.  ",
-      "author": "Gib",
-      "comments": [],
-      "id": 14
-    },
-    {
-      "title": "My blog",
-      "body": "afdfssdf",
-      "author": "ethanoutangoun",
-      "comments": [
-        {
-          "cid": "7ae6f2fa-7875-4cd3-91da-0d3d0177a1a4",
-          "username": "ethanoutangoun",
-          "text": "HELLO",
-          "date": "2023-08-22T21:03:40.601Z",
-          "likes": 21,
-          "edited": true
-        },
-        {
-          "cid": "20d39bb7-4f0c-48e7-872f-bce529c83182",
-          "username": "ethanoutangoun",
-          "text": "dsad",
-          "date": "2023-08-22T21:39:50.735Z",
-          "likes": 29
-        },
-        {
-          "cid": "1486a6ec-87b1-410f-b429-b222b1e4f9b8",
-          "username": "ethanoutangoun",
-          "text": "I will edit this",
-          "date": "2023-08-23T16:37:24.065Z",
-          "likes": 16,
-          "edited": true
-        },
-        {
-          "cid": "abf2a9c0-489e-40c5-83ec-8eada4817ffd",
-          "username": "ethanoutangoun",
-          "text": "dsaadsa",
-          "date": "2023-08-23T19:08:09.358Z",
-          "likes": 2
-        },
-        {
-          "cid": "9db89f1d-28ce-4852-bc3b-cbe188bb66ef",
-          "username": "ethanoutangoun",
-          "text": "Hello man",
-          "date": "2023-08-25T16:54:13.067Z",
-          "likes": 0,
-          "edited": true
-        },
-        {
-          "cid": "150174dd-8fd3-454f-b42a-a95608fc3fbd",
-          "username": "ethanoutangoun",
-          "text": "WOW1",
-          "date": "2023-08-25T16:56:57.849Z",
-          "likes": 4,
-          "edited": true
-        }
-      ],
-      "id": 15
     }
   ],
   "user": {
