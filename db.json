@@ -1,0 +1,115 @@
+{
+  "blogs": [
+    {
+      "title": "Introducing Outiblog",
+      "body": "Hello and welcome to Outiblog. This is a site deployed by Ethan Outangoun using React. Feel free to post as much as you like!",
+      "author": "Ethan O.",
+      "comments": [
+        {
+          "cid": "e3ab7c50-7b72-4af8-9b1e-98df0ac75297",
+          "username": "ethanoutangoun",
+          "text": "Wow!",
+          "date": "2023-08-25T22:42:33.856Z",
+          "likes": 0
+        },
+        {
+          "cid": "6ae8e5a0-9254-49c1-a7ce-921d2a656b8c",
+          "username": "ethanoutangoun",
+          "text": "So cooll",
+          "date": "2023-08-25T22:42:37.425Z",
+          "likes": 0,
+          "edited": true
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Iron Man: Origins",
+      "body": "The world of superheroes has been enriched by a plethora of iconic characters, each with their unique origin stories and captivating abilities. Among them, Iron Man stands out as a symbol of technological innovation, human resilience, and the indomitable spirit of a man who transforms himself from a wealthy genius to a formidable armored hero. Created by Marvel Comics, Iron Man has evolved from the pages of comic books to become a global pop culture phenomenon, leaving an indelible mark on both the fictional universe and the real world. The Genesis of Iron Man The character of Iron Man was conceived by legendary writer and editor Stan Lee, along with artists Larry Lieber, Don Heck, and Jack Kirby. The inaugural issue, \"Tales of Suspense\" #39, was published in 1963. Iron Man's alter ego, Tony Stark, is portrayed as a wealthy industrialist and genius inventor who, while visiting Vietnam (later updated to Afghanistan), is critically injured by a booby-trap explosion. Stark's captors force him to construct a weapon of mass destruction, but instead, he creates a suit of powered armor that not only saves his life but also becomes his new identity as Iron Man. The Armored Avenger The Iron Man suit, a technological marvel in its own right, is a modular masterpiece that grants Tony Stark superhuman strength, flight capabilities, advanced weaponry, and an array of sensors. As Iron Man, Stark becomes a beacon of hope, not only as a protector of humanity but as a symbol of how human ingenuity can overcome even the most dire circumstances. His character arc resonates with themes of redemption, responsibility, and the dual nature of technology—both a force for good and a potential tool of destruction. Tony Stark's Journey The allure of Iron Man is not limited to his armored persona; it's also deeply rooted in the personal transformation of Tony Stark. Stark's growth from a self-absorbed billionaire playboy to a selfless hero illustrates the human capacity for change. Through his battles with villains like the Mandarin, Obadiah Stane (Iron Monger), and the extremist group known as the Ten Rings, Stark faces his own demons and evolves into a more compassionate and altruistic individual. Impact on Popular Culture The success of Iron Man in comic books paved the way for his transition to other media. The character has been brought to life through various television adaptations and animated series, further cementing his status as a beloved superhero. However, it was the Marvel Cinematic Universe (MCU) that truly propelled Iron Man into the global spotlight. The Robert Downey Jr. Effect Actor Robert Downey Jr.'s portrayal of Tony Stark/Iron Man in the MCU played a pivotal role in reshaping the superhero genre. His charismatic performance breathed life into the character, combining wit, vulnerability, and heroism. Downey's portrayal elevated Iron Man to become the face of the MCU, inspiring a new generation of fans and setting the stage for a cinematic universe that would redefine blockbuster filmmaking. Legacy and Future The legacy of Iron Man extends beyond comics and films. The character's influence is felt in technology, engineering, and even philanthropy. Tony Stark's embodiment of human potential, innovation, and the desire to make the world a better place has resonated with individuals worldwide. From cosplayers donning Iron Man suits to engineers drawing inspiration from Stark's inventions, his impact is undeniable. While Tony Stark's journey came to a poignant conclusion in \"Avengers: Endgame,\" the legacy of Iron Man lives on. His spirit of resilience, heroism, and innovation continues to inspire creators, fans, and dreamers alike. Iron Man's story serves as a reminder that ordinary individuals can rise to extraordinary heights when faced with challenges, and that, ultimately, the strength of character is what defines a true hero. Conclusion Iron Man is not just a fictional character; he's an emblem of human potential and the power of technology to transform lives. From the comic book pages to the silver screen, Tony Stark's journey from genius billionaire to iconic superhero has captivated hearts and minds around the world. His legacy reminds us that even in a world of gods and monsters, the strength of the human spirit can shine as brightly as the arc reactor in his chest.",
+      "author": "Ethan O.",
+      "comments": [],
+      "id": 10
+    },
+    {
+      "title": "Hire Ethan Outangoun",
+      "body": "Hello plz give me job",
+      "author": "not ethan",
+      "comments": [],
+      "id": 11
+    },
+    {
+      "title": "Lorem Ipsum Sample",
+      "body": "Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. Where can I get some? There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": ">:)",
+      "comments": [],
+      "id": 12
+    },
+    {
+      "title": "Brenton O",
+      "body": "Once, there was a boy named Brenton better known as Baby Brenton.  He was not handsome by any mean.  Some would say he was downright ugly.  ",
+      "author": "Gib",
+      "comments": [],
+      "id": 14
+    },
+    {
+      "title": "My blog",
+      "body": "afdfssdf",
+      "author": "ethanoutangoun",
+      "comments": [
+        {
+          "cid": "7ae6f2fa-7875-4cd3-91da-0d3d0177a1a4",
+          "username": "ethanoutangoun",
+          "text": "HELLO",
+          "date": "2023-08-22T21:03:40.601Z",
+          "likes": 21,
+          "edited": true
+        },
+        {
+          "cid": "20d39bb7-4f0c-48e7-872f-bce529c83182",
+          "username": "ethanoutangoun",
+          "text": "dsad",
+          "date": "2023-08-22T21:39:50.735Z",
+          "likes": 29
+        },
+        {
+          "cid": "1486a6ec-87b1-410f-b429-b222b1e4f9b8",
+          "username": "ethanoutangoun",
+          "text": "I will edit this",
+          "date": "2023-08-23T16:37:24.065Z",
+          "likes": 16,
+          "edited": true
+        },
+        {
+          "cid": "abf2a9c0-489e-40c5-83ec-8eada4817ffd",
+          "username": "ethanoutangoun",
+          "text": "dsaadsa",
+          "date": "2023-08-23T19:08:09.358Z",
+          "likes": 2
+        },
+        {
+          "cid": "9db89f1d-28ce-4852-bc3b-cbe188bb66ef",
+          "username": "ethanoutangoun",
+          "text": "Hello man",
+          "date": "2023-08-25T16:54:13.067Z",
+          "likes": 0,
+          "edited": true
+        },
+        {
+          "cid": "150174dd-8fd3-454f-b42a-a95608fc3fbd",
+          "username": "ethanoutangoun",
+          "text": "WOW1",
+          "date": "2023-08-25T16:56:57.849Z",
+          "likes": 4,
+          "edited": true
+        }
+      ],
+      "id": 15
+    }
+  ],
+  "user": {
+    "name": "Ethan Outangoun",
+    "username": "ethanoutangoun",
+    "image": "https://yt3.ggpht.com/yti/AOXPAcWS9yNJdANxFzyhztfMusm2q94-drYDMPuzdRLe=s108-c-k-c0x00ffffff-no-rj",
+    "likedComments": []
+  }
+}
